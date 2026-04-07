@@ -7,4 +7,3 @@
 - Shooting uses arrow keys instead of space bar
 - No 2.5D done with columns
 - Used nether portals as the system for moving between rooms
-- 
